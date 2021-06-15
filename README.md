@@ -1,6 +1,6 @@
 # Hi, I’m **Mykyta Sinokop**! ✌️
 ## I’m *Front-end Developer* 🚀
-### See my website: [coldxdev github pages](https://coldxdev.github.io/)
+### See my website: [coldxdev.github.io](https://coldxdev.github.io/)
 ### Skills and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![Gulp](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
