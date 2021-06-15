@@ -1,4 +1,3 @@
-# 👋 Hi, I’m @coldxdev
-### 👀 I’m interested in Front-end developing 🚀
-### 🌱 I’m currently learning ReactJS
+# 👋 Hi, I’m Mykyta Sinokop and I’m Front-end Developer🚀
+### I’m currently learning ReactJS
 ### 📫 How to reach me: Telegram @coldxdev or mail to coldxdev@gmail.com
