@@ -7,7 +7,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ### ✉️ Mail me: coldxdev@gmail.com
-### 🌐 Telegram: @coldxdev
+### 🌐 Telegram: [@coldxdev](https://t.me/coldxdev)
 #
 > To improve is to change; to be perfect is to change often. <br/>
 > ***Winston Churchill***
