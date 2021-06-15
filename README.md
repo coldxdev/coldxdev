@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Mykyta Sinokop**!
+# Hi, I’m **Mykyta Sinokop**!✌️
 ## I’m *Front-end Developer*🚀
 ### See my website: [coldxdev.io](https://coldxdev.github.io/)
 ### Skills and Technologies 
